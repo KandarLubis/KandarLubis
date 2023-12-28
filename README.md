@@ -37,6 +37,8 @@
 [![Game - Valorant](https://img.shields.io/badge/Game-Valorant-informational?style=flat&logo=valorant&logoColor=white&color=7645FF)](https://playvalorant.com/)
 [![Game - Fishing Planet](https://img.shields.io/badge/Game-Fishing_Planet-informational?style=flat&logo=fishingplanet&logoColor=white&color=4E937A)](https://fishingplanet.com/)
 [![Remote Desktop - AnyDesk](https://img.shields.io/badge/Remote_Desktop-AnyDesk-informational?style=flat&logo=anydesk&logoColor=white&color=1B1464)](https://www.anydesk.com/)
+![Face Fusion](https://img.shields.io/badge/Face-Fusion-green)
+![Stable Diffusion](https://img.shields.io/badge/Stable-Diffusion-blue)
 
 ## Connect with me:
 ![Chat - Discord](https://img.shields.io/badge/Chat-Discord-informational?style=flat&logo=discord&logoColor=white&color=5865F2)
